@@ -1,0 +1,2 @@
+# minhaEscola
+# minhaEscola-back-end-
