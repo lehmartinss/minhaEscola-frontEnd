@@ -1,7 +1,6 @@
 # FOTOS SENAI
 
-![![Uploading Captura de Tela 2025-08-07 às 12.04.36.png…]()
-])
+![](./Captura%20de%20Tela%202025-08-07%20%C3%A0s%2012.04.36.png)
 
 ---
 
